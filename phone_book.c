@@ -4,6 +4,7 @@
 
 const char *DB = "directory.db";
 
+
 struct entry0 
 {
     char name[20];
