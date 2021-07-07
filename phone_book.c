@@ -4,7 +4,6 @@
 
 const char *DB = "directory.db";
 
-
 struct entry0 
 {
     char name[20];
@@ -294,3 +293,17 @@ int search(FILE *db_file, char *name)
     free_entries(base);
     return search;
 }
+
+
+
+
+
+
+
+ 
+  
+
+   
+            
+
+      
